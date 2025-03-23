@@ -2,7 +2,7 @@
 #### Technical Skills: Python, Java, SQL, Tableau
 
 ## Education
-B.S., Data Science | San Jose State University (May 2026_)
+B.S., Data Science | San Jose State University (May 2026)
   
 ## WORK EXPERIENCE
 **AI Researcher Extern @Outamation (_March 2025 - May 2025_)** 
@@ -24,17 +24,20 @@ B.S., Data Science | San Jose State University (May 2026_)
 - Built 5+ interactive dashboards for real-time inventory/sales tracking, adopted by 15+ clients to reduce stock discrepancies by 20% and improve decision-making efficiency.
 - Mapped e-commerce growth opportunities across 4 Maghreb markets (Algeria, Morocco, Libya, Mauritania), supporting ZAI’s regional expansion strategy with actionable insights on customer trends.
 
-**Student Ambassador @Ciy College Of San Francisco (_January 2023 – May 2024_)**
-- Led 60+ campus tours, each with 50+ prospective students, providing information and guidance about the college.
-- Helped coordinate 15+ major events, including career fairs, welcome days, and club events.
 
+
+  
 ## Projects
 
 ### Minesweeper Game (Class-Project) 
 
 Developed a fully functional Minesweeper game with a GUI using **Python** and **Tkinter**, featuring a dynamic 9x9 grid with randomized mine placement. The game utilizes a 2D array for efficient grid management and state tracking, ensuring real-time user interaction through the Tkinter graphical interface. To handle cell revealing, I implemented a recursive depth-first search (DFS) algorithm, allowing adjacent non-mine cells to be uncovered smoothly. The game loop integrates live input handling, mine detection, and win/loss condition checks to maintain seamless gameplay. Additionally, I optimized grid traversal and cell reveal algorithms to enhance efficiency, resulting in a responsive and engaging user experience.
 
+
+
+
 ## LEADERSHIP ACTIVITIES
+
 **Associate Student Council | Student President (_August 2023 – May 2024_)** .
 - Directed a team of 20 student leaders, overseeing the successful execution of key campus projects and policy initiatives.
 - Oversaw a $300k+ dollars budget for resource centers and school activities, ensuring effective financial planning and allocation.
