@@ -39,7 +39,7 @@ Developed a fully functional Minesweeper game with a GUI using **Python** and **
 
 ## LEADERSHIP ACTIVITIES
 
-**Associate Student Council | Student President (_August 2023 – May 2024_)** .
+**Associate Student Council | Student President (_August 2023 – May 2024_)** 
 - Directed a team of 20 student leaders, overseeing the successful execution of key campus projects and policy initiatives.
 - Oversaw a $300k+ dollars budget for resource centers and school activities, ensuring effective financial planning and allocation.
 - Chaired 2 weekly meetings, leading agenda-setting, fostering consensus, and driving key initiatives while sharpening communication and organizational skills.
