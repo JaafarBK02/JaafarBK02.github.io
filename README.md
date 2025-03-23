@@ -2,8 +2,7 @@
 #### Technical Skills: Python, Java, SQL, Tableau
 
 ## Education
-- B.S., Data Science | San Jose State University (_August 2024 - May 2026_)
-- Completed 79 units | City College Of San Francisco (_August 2022 - May 2024_)
+B.S., Data Science | San Jose State University (May 2026_)
   
 ## WORK EXPERIENCE
 **AI Researcher Extern @Outamation (_March 2025 - May 2025_)** 
