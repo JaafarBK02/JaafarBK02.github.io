@@ -31,8 +31,9 @@
 ## 📂 Projects
 
 ### 🚢 Titanic - Machine Learning from Disaster
+[Publication](https://github.com/JaafarBK02/titanic-machine-learning-project)
 
-The Titanic Machine Learning project involves predicting the survival of passengers aboard the ill-fated Titanic voyage using machine learning techniques. By applying data cleaning, feature engineering, and categorical encoding, I built a logistic regression model to classify passengers as survivors or non-survivors. The project demonstrates key machine learning skills, including data preprocessing, feature selection, model training, and evaluation. I visualized important features like age, gender, and class to uncover patterns in survival rates. Ultimately, this project enhanced my understanding of data science workflows and model deployment, making it a valuable part of my portfolio.
+The Titanic Machine Learning project involves predicting the survival of passengers aboard the ill-fated Titanic voyage using machine learning techniques. By applying data cleaning, feature engineering, and categorical encoding, I built a logistic regression model to classify passengers as survivors or non-survivors. The project demonstrates key machine learning skills, including data preprocessing, feature selection, model training, and evaluation. I visualized important features like age, gender, and class to uncover patterns in survival rates.
 
 
 
