@@ -42,7 +42,7 @@ The Titanic Machine Learning project involves predicting the survival of passeng
 
 
 
-### Minesweeper Game (Class-Project) 
+### 💣 Minesweeper Game (Class-Project) 
 
 Developed a fully functional Minesweeper game with a GUI using **Python** and **Tkinter**, featuring a dynamic 9x9 grid with randomized mine placement. The game utilizes a 2D array for efficient grid management and state tracking, ensuring real-time user interaction through the Tkinter graphical interface. To handle cell revealing, I implemented a recursive depth-first search (DFS) algorithm, allowing adjacent non-mine cells to be uncovered smoothly. The game loop integrates live input handling, mine detection, and win/loss condition checks to maintain seamless gameplay. Additionally, I optimized grid traversal and cell reveal algorithms to enhance efficiency, resulting in a responsive and engaging user experience.
 
