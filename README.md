@@ -1,11 +1,11 @@
 # Data Scientist 
 #### Technical Skills: Python, Java, SQL, Tableau
 
-## Education
+## 🎓 Education
 - B.S., Data Science | San Jose State University (May 2026)
 - 79 Units Completed | City College Of San Francisco (May 2024)
   
-## WORK EXPERIENCE
+## 💼 WORK EXPERIENCE
 ** 🤖 AI Researcher Extern @Outamation (_March 2025 - May 2025_)** 
 - Developing Python scripts to preprocess mortgage data using Pandas and OpenCV, enhancing OCR accuracy for scanned documents.
 - Training AI models by annotating 50+ mortgage documents in Label Studio to classify loan agreements and detect signatures.
@@ -28,7 +28,7 @@
 
 
   
-## Projects
+## 📂 Projects
 
 ### 🚢 Titanic - Machine Learning from Disaster
 
@@ -49,7 +49,7 @@ Developed a fully functional Minesweeper game with a GUI using **Python** and **
 
 
 
-## LEADERSHIP ACTIVITIES
+## 👥 LEADERSHIP ACTIVITIES
 
 **Associate Student Council | Student President (_August 2023 – May 2024_)** 
 - Directed a team of 20 student leaders, overseeing the successful execution of key campus projects and policy initiatives.
