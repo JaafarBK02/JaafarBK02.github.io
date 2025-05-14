@@ -35,4 +35,19 @@ This leadership journey has significantly developed my skills in building trust 
   <img src="asco2.jpg" />
 </p>
 
+**Fundraiser Coordiantor**
+[Alpha Gamma Sigma Omega Chapter](https://www.agsomega.com/)
+
+During my first semester at City College of San Francisco (CCSF), I joined the Alpha Gamma Sigma (AGS) Honor Society, Omega Chapter, where I served as the Fundraiser Coordinator on the executive board . In this role, I was responsible for organizing fundraising activities to sponsor the club's annual scholarships awarded to dedicated members.
+
+In Fall 2022, as classes resumed in person after a prolonged hiatus due to the pandemic, revitalizing campus life became a priority. I introduced innovative fundraising strategies to foster student engagement and successfully raised significant funds for the scholarships. Additionally, I implemented the HomeTown Ticketing system to streamline event payments, allowing for online transactions and improving financial tracking .
+
+These initiatives led to record-breaking fundraising achievements, with over $500 raised—an accomplishment unprecedented in recent years. My tenure at AGS was instrumental in developing my confidence and skills in event planning, collaboration, and navigating institutional policies. The experience also paved the way for my subsequent election as President of the Associated Student Council, where I continued to enhance campus life and student engagement.
+
+
+<p float="left">
+  <img src="ags.jpg" />
+</p>
+
+
 
