@@ -15,7 +15,7 @@ I’m currently a junior, expecting to graduate in May 2026, and I’m actively 
 <p float="left">
   <img src="unesco.jpg" width="200" />
   <img src="unesco1.jpg" width="200" />
-  <img src="unesco2.jpg width="200" />
+  <img src="unesco2.jpg" width="200" />
 </p>
 
 # LeaderShip Activities 
