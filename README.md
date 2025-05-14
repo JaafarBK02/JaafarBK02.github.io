@@ -20,3 +20,17 @@ In collaboration with Tunisian organizations, we also coordinated fundraisers to
 </p>
 
 # LeaderShip Activities 
+
+ ## Student President
+ 
+Upon my arrival at City College of San Francisco (CCSF), I became an active member of the Associated Students Council of Ocean Campus (ASCO), the elected body representing student interests. Initially serving as a senator, I collaborated with fellow council members to support various student-led initiatives and participated in decision-making processes through recommendations, allocations, and resolutions. This role provided me with valuable insights into the educational and student governance systems within community colleges.
+
+Attending a statewide leadership conference further expanded my perspective, allowing me to network with student leaders from campuses across California. Inspired by this experience, I pursued and was elected to the position of ASCO president. In this capacity, I lead a team of eighteen student leaders, including six vice presidents and twelve senators. My responsibilities encompass overseeing the orientation and training of vice presidents, ensuring all council members fulfill ASCO requirements, and collaborating with the Vice President of Finance to establish and submit the council's academic budget. Additionally, chairing weekly meetings with over twenty participants has enhanced my presentation and public speaking abilities.
+
+This leadership journey has significantly developed my skills in building trust within a team, mentoring peers, and effectively managing multiple responsibilities. It has also instilled a strong sense of accountability, as I work to represent and advocate for the diverse student body at CCSF.
+
+<p float="left">
+  <img src="unesco.jpg" />
+</p>
+
+
