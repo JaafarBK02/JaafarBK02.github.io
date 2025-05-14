@@ -11,6 +11,10 @@ Why Data Science? To be honest, I wouldn’t say I “love” it the way I love 
 I’m currently a junior, expecting to graduate in May 2026, and I’m actively seeking an internship in Data Analysis, Data Engineering, or Machine Learning. What I’m looking for is hands-on experience, an opportunity to learn, contribute, and grow as a future data scientist.
 
 # Volunteer Activities
+As a member of the UNESCO Club at Lycée Gustave Flaubert (LGF) in La Marsa, I actively participated in impactful community service and environmental initiatives. One memorable experience was organizing a beach clean-up at Gammarth Beach. Equipped with gloves and bags, our team of volunteers worked diligently under the morning sun, collecting litter and raising awareness among local beachgoers about the importance of preserving our coastline.
+Wikipedia
+
+In collaboration with Tunisian organizations, we also coordinated fundraisers to collect school supplies for underprivileged schools in regions like Aïn Draham. Visiting these schools to personally deliver notebooks, pens, and other essentials allowed me to witness firsthand the students' enthusiasm and gratitude. Additionally, we organized drives to gather winter clothing and food items, ensuring that vulnerable communities had the necessary resources during the colder months.
 
 <p float="left">
   <img src="unesco.jpg" width="33%" />
