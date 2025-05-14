@@ -30,7 +30,9 @@ Attending a statewide leadership conference further expanded my perspective, all
 This leadership journey has significantly developed my skills in building trust within a team, mentoring peers, and effectively managing multiple responsibilities. It has also instilled a strong sense of accountability, as I work to represent and advocate for the diverse student body at CCSF.
 
 <p float="left">
-  <img src="unesco.jpg" />
+  <img src="asco.jpg" />
+  <img src="asco1.jpg" />
+  <img src="asco2.jpg" />
 </p>
 
 
