@@ -1,30 +1,12 @@
-# Data Scientist 
+# About me
 
-  
-## 📂 Projects
+I grew up mostly in Tunisia, but due to my father's work, we often had to move from country to country. You could say I was like an "oiseau migrateur" a migratory bird—constantly discovering new cultures and meeting new people, only to say goodbye a year later. These experiences made me adaptable, resilient, and comfortable in any environment. I learned how to make friends quickly—even when we didn’t speak the same language. 😊
 
-### 🚢 Titanic - Machine Learning from Disaster
-[Publication](https://github.com/JaafarBK02/titanic-machine-learning-project)
+From a young age, I’ve also been a competitor at heart. I love sports and thrive in competition—whether it’s on the soccer field, volleyball court, or playing padel. I also enjoy competitive video games; I’m drawn to the challenge of improving every day, learning from each match, and performing under pressure.
 
-The Titanic Machine Learning project involves predicting the survival of passengers aboard the ill-fated Titanic voyage using machine learning techniques. By applying data cleaning, feature engineering, and categorical encoding, I built a logistic regression model to classify passengers as survivors or non-survivors. The project demonstrates key machine learning skills, including data preprocessing, feature selection, model training, and evaluation. I visualized important features like age, gender, and class to uncover patterns in survival rates.
+My passion for technology started early too. After high school, I chose to study Computer Science because I wanted to create video games. In 2022, I moved to San Francisco and began studying Computer Science before transferring to San José State University to pursue a bachelor’s degree in Data Science.
 
+Why Data Science? To be honest, I wouldn’t say I “love” it the way I love soccer, the gym, or traveling with friends. But I’m deeply interested and curious about it. I want to understand how data can solve real-world problems, and I enjoy learning and growing in this field.
 
+I’m currently a junior, expecting to graduate in May 2026, and I’m actively seeking an internship in Data Analysis, Data Engineering, or Machine Learning. What I’m looking for is hands-on experience—an opportunity to learn, contribute, and grow as a future data scientist.
 
-
-### 💣 Minesweeper Game (Class-Project) 
-
-Developed a fully functional Minesweeper game with a GUI using **Python** and **Tkinter**, featuring a dynamic 9x9 grid with randomized mine placement. The game utilizes a 2D array for efficient grid management and state tracking, ensuring real-time user interaction through the Tkinter graphical interface. To handle cell revealing, I implemented a recursive depth-first search (DFS) algorithm, allowing adjacent non-mine cells to be uncovered smoothly. The game loop integrates live input handling, mine detection, and win/loss condition checks to maintain seamless gameplay. Additionally, I optimized grid traversal and cell reveal algorithms to enhance efficiency, resulting in a responsive and engaging user experience.
-
-
-
-
-## 👥 LEADERSHIP ACTIVITIES
-
-**Associate Student Council | Student President (_August 2023 – May 2024_)** 
-- Directed a team of 20 student leaders, overseeing the successful execution of key campus projects and policy initiatives.
-- Oversaw a $300k+ dollars budget for resource centers and school activities, ensuring effective financial planning and allocation.
-- Chaired 2 weekly meetings, leading agenda-setting, fostering consensus, and driving key initiatives while sharpening communication and organizational skills.
-  
-**Alpha Gamma Sigma Honors Society | Fundraiser Coordinator (_August 2022 – May 2023_)** 
-- Raised over $2,000 by organizing 4 basketball game fundraisers and by implementing digital payment systems to maximize purchases.
-- Contributed to AGS winning the "Club of the Year" award by leading +15 successful campus wide events by increasing student engagement and revitalizing campus life post-COVID.
