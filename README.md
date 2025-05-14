@@ -10,3 +10,5 @@ Why Data Science? To be honest, I wouldn’t say I “love” it the way I love 
 
 I’m currently a junior, expecting to graduate in May 2026, and I’m actively seeking an internship in Data Analysis, Data Engineering, or Machine Learning. What I’m looking for is hands-on experience, an opportunity to learn, contribute, and grow as a future data scientist.
 
+# Volunteer Activities
+# LeaderShip Activities 
