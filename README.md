@@ -17,9 +17,8 @@ Wikipedia
 In collaboration with Tunisian organizations, we also coordinated fundraisers to collect school supplies for underprivileged schools in regions like Aïn Draham. Visiting these schools to personally deliver notebooks, pens, and other essentials allowed me to witness firsthand the students' enthusiasm and gratitude. Additionally, we organized drives to gather winter clothing and food items, ensuring that vulnerable communities had the necessary resources during the colder months.
 
 <p float="left">
-  <img src="unesco.jpg" width="33%" />
-  <img src="unsco1.jpg" width="33%" />
-  <img src="unesco2.jpg" width="33%" />
+  <img src="unesco.jpg" />
+ 
 </p>
 
 # LeaderShip Activities 
