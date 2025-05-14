@@ -12,13 +12,11 @@ I’m currently a junior, expecting to graduate in May 2026, and I’m actively 
 
 # Volunteer Activities
 As a member of the UNESCO Club at Lycée Gustave Flaubert (LGF) in La Marsa, I actively participated in impactful community service and environmental initiatives. One memorable experience was organizing a beach clean-up at Gammarth Beach. Equipped with gloves and bags, our team of volunteers worked diligently under the morning sun, collecting litter and raising awareness among local beachgoers about the importance of preserving our coastline.
-Wikipedia
 
 In collaboration with Tunisian organizations, we also coordinated fundraisers to collect school supplies for underprivileged schools in regions like Aïn Draham. Visiting these schools to personally deliver notebooks, pens, and other essentials allowed me to witness firsthand the students' enthusiasm and gratitude. Additionally, we organized drives to gather winter clothing and food items, ensuring that vulnerable communities had the necessary resources during the colder months.
 
 <p float="left">
   <img src="unesco.jpg" />
- 
 </p>
 
 # LeaderShip Activities 
