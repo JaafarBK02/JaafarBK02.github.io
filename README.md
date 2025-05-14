@@ -13,9 +13,9 @@ I’m currently a junior, expecting to graduate in May 2026, and I’m actively 
 # Volunteer Activities
 
 <p float="left">
-  <img src="unesco.jpg" width="200" />
-  <img src="unsco1.jpg" width="200" />
-  <img src="unesco2.jpg" width="200" />
+  <img src="unesco.jpg" width="33%" />
+  <img src="unsco1.jpg" width="33%" />
+  <img src="unesco2.jpg" width="33%" />
 </p>
 
 # LeaderShip Activities 
