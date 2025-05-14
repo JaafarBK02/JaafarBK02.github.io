@@ -1,4 +1,4 @@
-# About me
+# My Story
 
 I grew up mostly in Tunisia, but due to my father's work, we often had to move from country to country. You could say I was like an "oiseau migrateur" a migratory bird constantly discovering new cultures and meeting new people, only to say goodbye a year later. These experiences made me adaptable, resilient, and comfortable in any environment. I learned how to make friends quickly, even when we didn’t speak the same language. 😊
 
